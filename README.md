@@ -28,7 +28,7 @@ LegoRebuilder suggests:
 ### Setup
 
 ```bash
-git clone https://github.com/yourusername/LegoRebuilder.git
+git clone https://github.com/ryweisse314/LegoRebuilder.git
 cd LegoRebuilder
 pip install -r requirements.txt
 touch .env  # Add REBRICKABLE_KEY=your_api_key
